@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "image": "https://raw.githubusercontent.com/ctp7313/website_portfolio/master/create-react-express/client/public/assets/wa_voter_dashboard.png",
+        "title": "WA State Voter Dashboard",
+        "desc": "A boot camp project working with APIs and the Foundation framework to create a dashboard to find candidates, ballot drop-off boxes, and news.",
+        "url": "https://ctp7313.github.io/wa_voting_dashboard/",
+        "git": "https://github.com/ctp7313/wa_voting_dashboard"
+    },
+    {
+        "id": 2,
+        "image": "https://raw.githubusercontent.com/ctp7313/website_portfolio/master/create-react-express/client/public/assets/helping_hand.png",
+        "title": "Helping Hand",
+        "desc": "A boot camp project designed to provide crucial resources to people experiencing homelessness.",
+        "url": "https://github.com/ctp7313/helpers_hand",
+        "git": "https://github.com/jnaegeli12/project3-helping-hand"
+    },
+    {
+        "id": 3,
+        "image": "https://raw.githubusercontent.com/ctp7313/website_portfolio/master/create-react-express/client/public/assets/note_taker.png",
+        "title": "Note Taker",
+        "desc": "A boot camp homework assignment that required use of Express routes to read, write, and delete from a JSON.",
+        "url": "https://arcane-shore-83151.herokuapp.com/",
+        "git": "https://github.com/ctp7313/hmk-11-note-taker"
+    },
+    {
+        "id": 4,
+        "image": "https://raw.githubusercontent.com/ctp7313/website_portfolio/master/create-react-express/client/public/assets/ds9_tracker.png",
+        "title": "DS9 Employee Management System",
+        "desc": "A boot camp homework assignment that required building a CLI to manage a MySQL database.",
+        "git": "https://github.com/ctp7313/hmk-12-employee-tracker"
+    }
+]

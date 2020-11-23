@@ -1,0 +1,34 @@
+body {
+    background-color: #d2b991;
+}
+
+.navbar {
+    background-color: #629488 !important;
+    
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+}
+
+@media (min-width: 700px) {
+    .container {
+      width: 700px;
+    }
+  }
+
+.project-thumbnail {
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+  
+}
+
+#footer {
+    background-color: #629488;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px; 
+}
