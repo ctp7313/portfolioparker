@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/website_portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/website_portfolio/static/js/main.17d6cecb.chunk.js",
-    "main.js.map": "/website_portfolio/static/js/main.17d6cecb.chunk.js.map",
-    "runtime-main.js": "/website_portfolio/static/js/runtime-main.c9dd8b41.js",
-    "runtime-main.js.map": "/website_portfolio/static/js/runtime-main.c9dd8b41.js.map",
-    "static/js/2.35fae0f8.chunk.js": "/website_portfolio/static/js/2.35fae0f8.chunk.js",
-    "static/js/2.35fae0f8.chunk.js.map": "/website_portfolio/static/js/2.35fae0f8.chunk.js.map",
-    "static/js/3.5977a0bb.chunk.js": "/website_portfolio/static/js/3.5977a0bb.chunk.js",
-    "static/js/3.5977a0bb.chunk.js.map": "/website_portfolio/static/js/3.5977a0bb.chunk.js.map",
-    "index.html": "/website_portfolio/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/website_portfolio/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.35fae0f8.chunk.js.LICENSE.txt": "/website_portfolio/static/js/2.35fae0f8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/website_portfolio/static/media/logo.6ce24c58.svg"
+    "main.css": "/portfolioparker/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/portfolioparker/static/js/main.17d6cecb.chunk.js",
+    "main.js.map": "/portfolioparker/static/js/main.17d6cecb.chunk.js.map",
+    "runtime-main.js": "/portfolioparker/static/js/runtime-main.82ef2f52.js",
+    "runtime-main.js.map": "/portfolioparker/static/js/runtime-main.82ef2f52.js.map",
+    "static/js/2.35fae0f8.chunk.js": "/portfolioparker/static/js/2.35fae0f8.chunk.js",
+    "static/js/2.35fae0f8.chunk.js.map": "/portfolioparker/static/js/2.35fae0f8.chunk.js.map",
+    "static/js/3.5977a0bb.chunk.js": "/portfolioparker/static/js/3.5977a0bb.chunk.js",
+    "static/js/3.5977a0bb.chunk.js.map": "/portfolioparker/static/js/3.5977a0bb.chunk.js.map",
+    "index.html": "/portfolioparker/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/portfolioparker/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.35fae0f8.chunk.js.LICENSE.txt": "/portfolioparker/static/js/2.35fae0f8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/portfolioparker/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9dd8b41.js",
+    "static/js/runtime-main.82ef2f52.js",
     "static/js/2.35fae0f8.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.17d6cecb.chunk.js"
