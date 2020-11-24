@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolioparker/static/css/main.b0ad37c6.chunk.css",
-    "main.js": "/portfolioparker/static/js/main.61189519.chunk.js",
-    "main.js.map": "/portfolioparker/static/js/main.61189519.chunk.js.map",
+    "main.js": "/portfolioparker/static/js/main.8750c3ec.chunk.js",
+    "main.js.map": "/portfolioparker/static/js/main.8750c3ec.chunk.js.map",
     "runtime-main.js": "/portfolioparker/static/js/runtime-main.dc444d65.js",
     "runtime-main.js.map": "/portfolioparker/static/js/runtime-main.dc444d65.js.map",
     "static/js/2.3efee965.chunk.js": "/portfolioparker/static/js/2.3efee965.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dc444d65.js",
     "static/js/2.3efee965.chunk.js",
     "static/css/main.b0ad37c6.chunk.css",
-    "static/js/main.61189519.chunk.js"
+    "static/js/main.8750c3ec.chunk.js"
   ]
 }
