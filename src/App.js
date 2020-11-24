@@ -8,10 +8,10 @@ import Portfolio from "./pages/Portfolio";
 
 function App() {
   return (
-    <BrowserRouter basename="/portfolioparker">
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Nav />
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
         </Switch>
