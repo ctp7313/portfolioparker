@@ -16,8 +16,8 @@ const project = data.map((data) => {
                   </div>
                   <p>{data.desc}</p>
                   <Row className="">
-                    <button className="btn btn btn-primary"><a className="text-white" href={data.url}>Site</a></button>
-                    <button className="btn btn btn-primary"><a className="text-white" href={data.github}>Code</a></button>
+                    <button className="btn btn btn-primary"><a className="text-white" target="_blank" href={data.url}>Site</a></button>
+                    <button className="btn btn btn-primary"><a className="text-white" target="_blank" href={data.github}>Code</a></button>
                   </Row>       
                 </div>
               </div>

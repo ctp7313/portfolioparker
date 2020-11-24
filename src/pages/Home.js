@@ -9,7 +9,7 @@ export default function Home() {
       <Container>
       <div className="d-flex justify-content-center">
         <Col size="md-4">
-          <img className="img-fluid" src="https://raw.githubusercontent.com/ctp7313/portfolioparker/master/src/assets/main_pic.JPG" alt="Portrait of Chris"/>
+          <img className="img-fluid" src="https://raw.githubusercontent.com/ctp7313/portfolioparker/redeploy/src/assets/main_pic.JPG" alt="Portrait of Chris"/>
         </Col>
         <Col size="md-6">
             <p>Welcome! I'm a videographer, podcaster, and now recent web development boot camp graduate working for a Seattle-based global logistic provider.
