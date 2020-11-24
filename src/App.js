@@ -8,7 +8,7 @@ import Portfolio from "./pages/Portfolio";
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename="/portfolioparker">
         <Nav />
         <Switch>
           <Route exact path="/" component={Home} />
